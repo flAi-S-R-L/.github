@@ -1,4 +1,9 @@
-# flAi
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flAi-S-R-L/.github/main/assets/flai-logo-dark.png">
+    <img src="https://raw.githubusercontent.com/flAi-S-R-L/.github/main/assets/flai-logo.png" width="220" alt="flAi">
+  </picture>
+</p>
 
 **Powering mobility with advanced analytics.**
 
