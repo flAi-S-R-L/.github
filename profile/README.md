@@ -5,10 +5,10 @@
   </picture>
 </p>
 
-**Powering mobility with advanced analytics.**
+**Powering mobility with advanced analytics**
 
-flAi is a spin-off of the University of Bergamo. We design and build decision-support
-systems for aviation and mobility, combining AI, advanced analytics and proprietary models.
+We design and deploy tailor-made decision-support systems, combining AI,
+advanced analytics, and proprietary methodologies to address complex operational challenges.
 
 Website: [flai-analytics.com](https://flai-analytics.com)
 
@@ -17,7 +17,7 @@ Website: [flai-analytics.com](https://flai-analytics.com)
 - **Con-Accessibility**: airport demand and catchment analysis
 - **FLOWS**: fleet and last-mile operations
 - **ACOP**: airport capacity planning
-- **AI Agent**: applied AI for enterprise operations
+- **AI Agents**: applied AI for enterprise operations
 
 More details: [flai-analytics.com/solutions](https://flai-analytics.com/solutions)
 
